@@ -1,8 +1,9 @@
 # prgs.JAVA
 
-## Java Programming – My Learning Journey
 
-# About This Repository
+# Java Programming – My Learning Journey
+
+## About This Repository
 
 Welcome to my Java Programming Repository!
 
@@ -10,7 +11,7 @@ I am currently learning Java Programming and using this repository to upload my 
 
 This repository represents my coding journey from beginner to advanced level.
 
-# What I Am Learning
+## What I Am Learning
 
 - Java Basics
 - Variables and Data Types
@@ -22,18 +23,18 @@ This repository represents my coding journey from beginner to advanced level.
 - Methods
 - Object-Oriented Programming (OOP)
 
-# Repository Contents
+## Repository Contents
 
 This repository contains Java programs that I write while learning and practising Java.
 Each program helps me improve my logical thinking and problem-solving skills.
 
-# Technologies Used
+## Technologies Used
 
 - Java
 - VS Code / IntelliJ IDEA
 - Git & GitHub
 
-# My Goals
+## My Goals
 
 - Build strong Java fundamentals.
 - Practise coding every day.
@@ -41,16 +42,14 @@ Each program helps me improve my logical thinking and problem-solving skills.
 - Learn Data Structures and Algorithms.
 - Build real-world projects.
 
-# My Learning Philosophy
+## My Learning Philosophy
 
 "Every expert was once a beginner. Every pro was once an amateur."
-
 I believe in learning by doing, practising consistently, and improving one program at a time.
 
-# Thank You!
+## Thank You!
 
 Thanks for visiting my repository!
-
 Feel free to explore my programs and follow my journey as I continue learning Java.
 
-# Happy Coding!
+## Happy Coding!
